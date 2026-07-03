@@ -1,0 +1,27 @@
+{
+    "thomas": {
+        "name": "thomas",
+        "password": 1234,
+        "balance": 1000
+    },
+    "achu": {
+        "name": "achu",
+        "password": "top",
+        "balance": 8900
+    },
+    "paul": {
+        "name": "paul",
+        "password": "hi",
+        "balance": 100000
+    },
+    "sachu": {
+        "name": "sachu",
+        "password": "748",
+        "balance": 10000
+    },
+    "shiby": {
+        "name": "shiby",
+        "password": "299",
+        "balance": 10000
+    }
+}
